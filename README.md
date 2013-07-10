@@ -6,6 +6,6 @@ Built with QT in QT Creator.
 
 Team
 Charlie Carlson
-Mark Denali
+Mark Robinson
 Andrew Johnston
 Brent Mello
